@@ -1,0 +1,129 @@
+
+
+
+    @import url('https://fonts.googleapis.com/css2? family= Belleza & display=swap');
+
+body{
+    background-color: rgb(240, 160, 102);
+    color: white;
+    font-family: 'Belleza', sans-serif; ;}
+
+.encabezado{
+    background-color: rgba(212, 109, 35, 0.651);
+    height: 20px;
+    font-size: larger;
+    font-style: normal;
+    font-weight: bolder;   }
+
+.encabezado,nav,ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;}
+ 
+.encabezado,nav,ul,li {                       
+    list-style-type: none;
+    margin: 0  15px;
+    padding: 5px;}  
+    
+.encabezado,nav,ul,li,a {
+    text-decoration: none;
+    color: white;
+    font-size: medium;} 
+    
+.box1{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;} 
+    
+.box2{
+    font-size: larger;
+    text-align: center;
+    margin: 20px  50px;
+    width: 200;
+    height: 200px;} 
+
+.lugar{
+    width: 800px;
+    height: 500px;
+    margin-top: 10%;
+    margin-bottom: 10%;}
+
+.pieDefoto{
+    background-color: rgba(252, 212, 159, 0.719);
+    width: 200px
+    height 200px;}
+
+p{  line-height: 40px;
+    letter-spacing: normal;
+    text-transform: none;}
+
+ul{background-color: rgba(212, 109, 35, 0.651);}
+
+.galeria{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-content: center;}
+
+
+.h3{margin: 50px  0;}
+
+.consultas{
+    margin-left: 42%;
+margin-bottom: 10%;}
+
+.box3{
+    text-align: center;
+    margin-top: 5%;}
+
+.maquinas{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;}
+   
+.equipos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;}
+
+.inicio{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;}
+
+.inicio1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;}
+
+.inicio2{
+    width: 200px;
+    height: 200px;}
+
+.service{
+    width: 200px;
+    height: 200px;
+    margin-top: 5%;}
+
+.service1{
+    width: 200px;
+    height: 200px;
+    margin-left: 70%;}
+
+.seccion{
+    margin-top: 5%;}
+
+.aparatos{
+    width: 200px;
+    height: 200px;}
+
+    
+
+    
